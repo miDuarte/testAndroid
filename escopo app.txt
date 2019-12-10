@@ -1,0 +1,49 @@
+
+1. O que é o seu aplicativo? 
+Interação com os usuários do app,através de um localizador,você encontrará pessoas proximas a sua residência ou bairro,cadastradas
+e voluntariadas,podendo ter cobrança ou não dependendo do tipo de serviço estipulado pelo usuário,tais como:ajuda para ministrar 
+algum medicamento,pet sitter,troca,compra,venda,doação de medicamentos,ração,roupas,acessorios em geral,desde que respeitando a 
+finalidade do app,de oferecer serviço acessivel de baixo custo comparado aos valores convecionais,ou algum tipo de auxilio 
+voluntário.
+Veterinários poderão se cadastrar para oferecer consultas online,pessoalmente dependendo da necessidade,assessoria,gratuitamente ou
+com descontos dependendo do tipo de serviço prestado.
+Assessoria online ou presencial de adestradores ou pessoas que tenham facilidade para lidar com animais,para auxiliar na adaptação
+do animal adotado,podendo ser gratuito ou nao dependendo do tipo de serviço prestado.
+
+2. Qual é a sua concorrência? 
+Pet First Aid:primeiros socorros,incluir lista de medicamentos,idas ao veterinário,rotina de cuidados.
+Buddy:registro de vacinas,agendas de banho,idas ao veterinário,album de fotos.
+Dog Hero:pets sitters.
+
+3. Qual o diferencial do seu projeto? 
+Evitar futuros abandonos dos donos,ou fechamento de ongs por falta de recursos.
+ 
+4. Quais dispositivos ele funcionará? 
+Celular,computador,tablet.
+
+5. Quais sistemas ele funcionará? 
+Android.
+
+6. Quais as telas do seu aplicativo? 
+É importante esboçar quais serão as telas do seu app para que se tenha a dimensão do projeto e quais as funcionalidades e 
+integrações presentes nele. Quantas telas são? Quais são elas? O que cada uma delas irá fazer? E por aí vai. 
+Novamente, quanto mais detalhado essa parte, melhor. 
+
+7. Quais as funcionalidades que seu aplicativo terá? 
+Cadastro:nome,email,senha.
+login:email,senha.
+Grupos de discussões
+Chat
+Anuncios
+Dicas
+
+8. Quais integrações serão necessárias? 
+Não será necessária integração de terceiros.
+ 
+9. Qual o modelo de monetização pensado para o seu modelo de negócio? 
+Existem 5 modelos de monetização de aplicativos que são os principais. Pode até ser que o seu projeto seja uma exceção à 
+essa regra, mas geralmente outros modelos de monetização são apenas variações desses cinco. 
+Anuncios de empresas que fabricam produtos para pet.
+
+10. Como será feita a divulgação do app? 
+Redes sociais,youtube.
